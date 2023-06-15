@@ -1,0 +1,5 @@
+234,jet,kochi,kolkata
+123,Indigo,mum,goa
+345,jet,chennai,hyderbad
+789,indigo,delhi,jaipur
+890,jet,pune,delhi
